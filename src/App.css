@@ -16,17 +16,12 @@
     }
     
     .header__logo {
-      width: 40%;
-     right: 4px;
-
-  
+      width: 20%;
+     
     }
     
     .header__title {
-      width: 60%;
-      
-      
-      width: 28rem;
+      width: 20%;
       
       
     }
@@ -125,8 +120,7 @@
       }
       
       .header__title {
-        display: block;
-        margin: 0 auto;
+        margin: 20px;
         width: 80%;
       }
   
